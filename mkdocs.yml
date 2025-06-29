@@ -1,4 +1,5 @@
 site_name: Psychophysics Assessment Portfolios
+site_url: https://NeuroImager.github.io/psychophysics-problems/
 theme:
   name: material
 extra_css:
