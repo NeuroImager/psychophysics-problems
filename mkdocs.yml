@@ -1,0 +1,29 @@
+site_name: Psychophysics Assessment Portfolios
+theme:
+  name: material
+extra_css:
+  - stylesheets/custom.css
+nav:
+  - Home: index.md
+  - Portfolio 1:
+      - Children's Hearing: portfolio1/scenario1.md
+      - Sweetness of Sugary Drinks: portfolio1/scenario2.md
+      - Ideal Portion Sizes: portfolio1/scenario3.md
+      - User-Interface Design: portfolio1/scenario4.md
+      - Temperature Sensitivity: portfolio1/scenario5.md
+      - Product Price Changes: portfolio1/scenario6.md
+      - Examining the Theory: portfolio1/scenario7.md
+      - Sensitivity to Disfigurement: portfolio1/scenario8.md
+      - Hearing Abilities in Different Species: portfolio1/scenario9.md
+      - Optimal Fragrance Development: portfolio1/scenario10.md
+  - Portfolio 2:
+      - Human Sensitivity to Touch: portfolio2/scenario1.md
+      - Food Portion Perception: portfolio2/scenario2.md
+      - Reducing Salt Intake: portfolio2/scenario3.md
+      - Auditory Sensitivity in Factory Workers: portfolio2/scenario4.md
+      - Sensitivity to Visual Symmetry: portfolio2/scenario5.md
+      - Collision Warning Perception: portfolio2/scenario6.md
+      - Sound Detection Across Species: portfolio2/scenario7.md
+      - Price Perception: portfolio2/scenario8.md
+      - Perception of Fabric Softness: portfolio2/scenario9.md
+      - From Weber's Law to Fechner: portfolio2/scenario10.md
