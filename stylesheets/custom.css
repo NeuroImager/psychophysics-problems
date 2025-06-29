@@ -1,0 +1,35 @@
+/* Custom CSS for Psychophysics Assessment Portfolios */
+
+/* Compact table styling */
+.md-typeset table:not([class]) {
+    width: 100%;
+    max-width: 100%;
+    table-layout: auto;
+    overflow-x: auto;
+    display: block;
+    border-collapse: collapse;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    padding: 0.3rem 0.5rem;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* Adjust table first column width */
+.md-typeset table:not([class]) th:first-child,
+.md-typeset table:not([class]) td:first-child {
+    width: 170px;
+    min-width: 170px;
+}
+
+.md-typeset table:not([class]) thead,
+.md-typeset table:not([class]) tbody,
+.md-typeset table:not([class]) tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
